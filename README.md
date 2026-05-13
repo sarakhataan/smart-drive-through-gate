@@ -17,3 +17,10 @@ An Arduino project to simulate an  automatic drive through gate.
 
 ## Circuit simulation:
 https://wokwi.com/projects/462671743189182465
+
+## Real life Circuit:
+
+<img width="2600" height="3169" alt="IMG_2949" src="https://github.com/user-attachments/assets/8b5850a1-b48a-4d8b-a0a6-85e9c4951d6b" />
+
+<img width="3024" height="4032" alt="IMG_2956" src="https://github.com/user-attachments/assets/e3894256-97ac-4f10-8419-daa4ba717e00" />
+
